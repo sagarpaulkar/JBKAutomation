@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T15:41:57Z" name="Default suite" finished-at="2023-08-03T15:42:05Z" duration-ms="8419">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T15:41:57Z" name="Default test" finished-at="2023-08-03T15:42:05Z" duration-ms="8419">
+      <class name="JBK.JavaByKiranAutomationScenarios.TestDashBoard">
+        <test-method is-config="true" signature="browser()[pri:0, instance:JBK.JavaByKiranAutomationScenarios.TestDashBoard@5717c37]" started-at="2023-08-03T15:41:57Z" name="browser" finished-at="2023-08-03T15:42:00Z" duration-ms="3799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="allCourses()[pri:0, instance:JBK.JavaByKiranAutomationScenarios.TestDashBoard@5717c37]" started-at="2023-08-03T15:42:00Z" name="allCourses" finished-at="2023-08-03T15:42:02Z" duration-ms="1575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allCourses -->
+        <test-method signature="iteminNavigationMenu()[pri:0, instance:JBK.JavaByKiranAutomationScenarios.TestDashBoard@5717c37]" started-at="2023-08-03T15:42:02Z" name="iteminNavigationMenu" finished-at="2023-08-03T15:42:03Z" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iteminNavigationMenu -->
+        <test-method signature="loginWithKiran()[pri:0, instance:JBK.JavaByKiranAutomationScenarios.TestDashBoard@5717c37]" started-at="2023-08-03T15:42:03Z" name="loginWithKiran" finished-at="2023-08-03T15:42:04Z" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithKiran -->
+        <test-method signature="navigationMenu()[pri:0, instance:JBK.JavaByKiranAutomationScenarios.TestDashBoard@5717c37]" started-at="2023-08-03T15:42:04Z" name="navigationMenu" finished-at="2023-08-03T15:42:04Z" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationMenu -->
+        <test-method signature="seleniumInCourse()[pri:0, instance:JBK.JavaByKiranAutomationScenarios.TestDashBoard@5717c37]" started-at="2023-08-03T15:42:04Z" name="seleniumInCourse" finished-at="2023-08-03T15:42:05Z" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumInCourse -->
+      </class> <!-- JBK.JavaByKiranAutomationScenarios.TestDashBoard -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
